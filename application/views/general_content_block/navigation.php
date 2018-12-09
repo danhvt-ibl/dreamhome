@@ -10,7 +10,7 @@
             <div id="site-title" class="assistive-text">Long Sơn Việt.vn</div>
             <div id="site-description" class="assistive-text"></div>
             <a href="index.html">
-                <img class="preload-me" src="image/catalog/logo/logo-dream-home-riverside-quan-8.png" srcset="image/catalog/logo/logo-dream-home-riverside-quan-8.png 95w, image/catalog/logo/logo-dream-home-riverside-quan-8.png 189w"
+                <img class="preload-me" src="<?php echo base_url('images/logo/logo-dream-home-riverside-quan-8.png') ?>" srcset="<?php echo base_url('images/logo/logo-dream-home-riverside-quan-8.png') ?> 95w, <?php echo base_url('images/logo/logo-dream-home-riverside-quan-8.png') ?> 189w"
                     width="95" height="45" sizes="95px" alt="Long Sơn Việt.vn" />
             </a>
         </div>

@@ -72,7 +72,7 @@
                     "height": 60,
                     "logo": {
                         "showLogo": true,
-                        "html": "<img class=\"preload-me\" src=\"<?php echo base_url('images/logo/logo-dream-home-riverside-quan-8.png') ?>\" srcset=\"http://dreamriverside.myzozo.net/image/catalog/logo/logo-dream-home-riverside-quan-8.png 95w, http://dreamriverside.myzozo.net/image/catalog/logo/logo-dream-home-riverside-quan-8.png 189w\" width=\"95\" height=\"45\" sizes=\"95px\" alt=\"Long Sơn Việt.vn\" \/>",
+                        "html": "<img class=\"preload-me\" src=\"<?php echo base_url('images/logo/logo-dream-home-riverside-quan-8.png') ?>\" srcset=\"<?php echo base_url('images/logo/logo-dream-home-riverside-quan-8.png') ?> 95w, <?php echo base_url('images/logo/logo-dream-home-riverside-quan-8.png') ?> 189w\" width=\"95\" height=\"45\" sizes=\"95px\" alt=\"Long Sơn Việt.vn\" \/>",
                         "url": "https://canhodreamhome.info/"
                     }
                 },
