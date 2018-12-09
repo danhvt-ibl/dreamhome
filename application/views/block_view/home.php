@@ -11,8 +11,7 @@
                 <div class="">
                     <div id="content_maintop">
                         <div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid homebanner vc_row-o-content-middle vc_row-flex module-banner_head"
-                            style="margin-top: -70px;background-image: url(image/catalog/anh/phu-dong-premier-10.jpg)"
-                            id="service_banner_head-0">
+                            style="margin-top: -70px;background-image: url(<?php echo base_url('images/anh/phu-dong-premier-10.jpg') ?>)" id="service_banner_head-0">
                             <div class="wpb_column vc_column_container vc_col-sm-6">
                                 <div class="vc_column-inner ">
                                     <div class="wpb_wrapper">
