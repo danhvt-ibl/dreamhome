@@ -124,7 +124,8 @@
         };
     </script>
     <link href="<?php echo base_url('assets/images/logo/favicon.png'); ?>" rel="icon" />
-
+    <link href="https://fonts.googleapis.com/css?family=Marcellus|Montserrat:400,600,700|Open+Sans:400,400i,600,700|Roboto+Condensed:400,700|Roboto:400,500,700&amp;subset=vietnamese"
+        rel="stylesheet" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
