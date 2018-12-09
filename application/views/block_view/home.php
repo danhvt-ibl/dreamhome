@@ -67,10 +67,6 @@
                             <div class="clearfix"></div>
                         </div>
                         <div class="vc_row-full-width vc_clearfix"></div>
-
-
-
-
                         <div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid danhsachduan module-about"
                             id="service_about-2">
                             <div class="wpb_column vc_column_container vc_col-sm-12">
