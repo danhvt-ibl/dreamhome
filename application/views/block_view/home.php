@@ -652,9 +652,9 @@
                                                                 <a href="image/catalog/anh/Dream-Home-Riverside-04.jpg"
                                                                     data-large_image_width="1024"
                                                                     data-large_image_height="543" class="vc_single_image-wrapper vc_box_rounded vc_box_border_grey layzr-bg dt-pswp-item rollover rollover-zoom">
-                                                                    <img width="2100" height="1113" src="image/catalog/anh/Dream-Home-Riverside-04.jpg"
-                                                                        data-src="http://dreamriverside.myzozo.net/image/catalog/anh/Dream-Home-Riverside-04.jpg"
-                                                                        data-srcset="http://dreamriverside.myzozo.net/image/catalog/anh/Dream-Home-Riverside-04.jpg"
+                                                                    <img width="2100" height="1113" src="<?php echo base_url('images/anh/Dream-Home-Riverside-04.jpg') ?>"
+                                                                        data-src="<?php echo base_url('images/catalog/anh/Dream-Home-Riverside-04.jpg') ?>"
+                                                                        data-srcset="<?php echo base_url('images/catalog/anh/Dream-Home-Riverside-04.jpg') ?> "
                                                                         class="lazy-load vc_single_image-img attachment-full"
                                                                         alt="VỊ TRÍ ĐẮC ĐỊA|Vị Trí Dự Án" sizes="(max-width: 2100px) 100vw, 2100px"
                                                                         data-dt-location="VỊ TRÍ ĐẮC ĐỊA|Vị Trí Dự Án" />
@@ -934,9 +934,9 @@
                                             <figure class="wpb_wrapper vc_figure">
                                                 <div class="vc_single_image-wrapper vc_box_border_grey layzr-bg">
                                                     <img width="1300" height="611" src="image/index.html"
-                                                        data-src="http://dreamriverside.myzozo.net/image/"
+                                                        data-src="<?php echo base_url('images/') ?>"
                                                         class="lazy-load vc_single_image-img attachment-full"
-                                                        alt="" data-srcset="http://dreamriverside.myzozo.net/image/ 1300w, http://dreamriverside.myzozo.net/image/ 300w, http://dreamriverside.myzozo.net/image/ 768w, http://dreamriverside.myzozo.net/image/ 1024w"
+                                                        alt="" data-srcset="<?php echo base_url('images/')?> 1300w, <?php echo base_url('images/') ?> 300w, <?php echo base_url('images/') ?> 768w, <?php echo base_url('images/') ?> 1024w"
                                                         sizes="(max-width: 1300px) 100vw, 1300px" /></div>
                                             </figure>
                                         </div>
@@ -964,11 +964,10 @@
                                                     <a href="image/cache/catalog/anh/tien-ich-tang-tret-dream-home-riverside-quan8_1514382049-898x505.jpg"
                                                         class="vc_single_image-wrapper vc_box_border_grey layzr-bg dt-pswp-item rollover rollover-zoom"
                                                         data-large_image_width="1024" data-large_image_height="576">
-                                                        <img width="1920" height="1080" src="image/cache/catalog/anh/tien-ich-tang-tret-dream-home-riverside-quan8_1514382049-898x505.jpg"
-                                                            data-src="http://dreamriverside.myzozo.net/image/cache/catalog/anh/tien-ich-tang-tret-dream-home-riverside-quan8_1514382049-898x505.jpg"
+                                                        <img width="1920" height="1080" src="<?php echo base_url('images/cache/catalog/anh/tien-ich-tang-tret-dream-home-riverside-quan8_1514382049-898x505.jpg') ?>"
+                                                            data-src="<?php echo base_url('images/cache/catalog/anh/tien-ich-tang-tret-dream-home-riverside-quan8_1514382049-898x505.jpg') ?>"
                                                             class="lazy-load vc_single_image-img attachment-full"
-                                                            alt="34 CÔNG TRÌNH|Tiện Ích Nghỉ Dưỡng" data-srcset="http://dreamriverside.myzozo.net/image/cache/catalog/anh/tien-ich-tang-tret-dream-home-riverside-quan8_1514382049-898x505.jpg 1920w, http://dreamriverside.myzozo.net/image/cache/catalog/anh/tien-ich-tang-tret-dream-home-riverside-quan8_1514382049-898x505.jpg 300w, http://dreamriverside.myzozo.net/image/cache/catalog/anh/tien-ich-tang-tret-dream-home-riverside-quan8_1514382049-898x505.jpg 768w, http://dreamriverside.myzozo.net/image/cache/catalog/anh/tien-ich-tang-tret-dream-home-riverside-quan8_1514382049-898x505.jpg 1024w"
-                                                            sizes="(max-width: 1920px) 100vw, 1920px" />
+                                                            alt="34 CÔNG TRÌNH|Tiện Ích Nghỉ Dưỡng" data-srcset="<?php echo base_url('images/cache/catalog/anh/tien-ich-tang-tret-dream-home-riverside-quan8_1514382049-898x505.jpg') ?> 1920w, <?php echo base_url('images/cache/catalog/anh/tien-ich-tang-tret-dream-home-riverside-quan8_1514382049-898x505.jpg') ?> 300w, <?php echo base_url('images/cache/catalog/anh/tien-ich-tang-tret-dream-home-riverside-quan8_1514382049-898x505.jpg') ?> 768w, <?php echo base_url('images/cache/catalog/anh/tien-ich-tang-tret-dream-home-riverside-quan8_1514382049-898x505.jpg') ?> 1024w" sizes="(max-width: 1920px) 100vw, 1920px" />
                                                     </a>
                                                 </figure>
                                             </div>
@@ -978,10 +977,10 @@
                                                     <a href="image/cache/catalog/anh/tien-ich-tang_-8-dream-home-riverside-898x505.jpg"
                                                         class="vc_single_image-wrapper vc_box_border_grey layzr-bg dt-pswp-item rollover rollover-zoom"
                                                         data-large_image_width="1024" data-large_image_height="576">
-                                                        <img width="1920" height="1080" src="image/cache/catalog/anh/tien-ich-tang_-8-dream-home-riverside-898x505.jpg"
-                                                            data-src="http://dreamriverside.myzozo.net/image/cache/catalog/anh/tien-ich-tang_-8-dream-home-riverside-898x505.jpg"
+                                                        <img width="1920" height="1080" src="<?php echo base_url('images/cache/catalog/anh/tien-ich-tang_-8-dream-home-riverside-898x505.jpg') ?>"
+                                                            data-src="<?php echo base_url('images/cache/catalog/anh/tien-ich-tang_-8-dream-home-riverside-898x505.jpg') ?>"
                                                             class="lazy-load vc_single_image-img attachment-full"
-                                                            alt="34 CÔNG TRÌNH|Tiện Ích Nghỉ Dưỡng" data-srcset="http://dreamriverside.myzozo.net/image/cache/catalog/anh/tien-ich-tang_-8-dream-home-riverside-898x505.jpg 1920w, http://dreamriverside.myzozo.net/image/cache/catalog/anh/tien-ich-tang_-8-dream-home-riverside-898x505.jpg 300w, http://dreamriverside.myzozo.net/image/cache/catalog/anh/tien-ich-tang_-8-dream-home-riverside-898x505.jpg 768w, http://dreamriverside.myzozo.net/image/cache/catalog/anh/tien-ich-tang_-8-dream-home-riverside-898x505.jpg 1024w"
+                                                            alt="34 CÔNG TRÌNH|Tiện Ích Nghỉ Dưỡng" data-srcset="<?php echo base_url('images/cache/catalog/anh/tien-ich-tang_-8-dream-home-riverside-898x505.jpg') ?> 1920w, <?php echo base_url('images/cache/catalog/anh/tien-ich-tang_-8-dream-home-riverside-898x505.jpg') ?> 300w, <?php echo base_url('images/cache/catalog/anh/tien-ich-tang_-8-dream-home-riverside-898x505.jpg') ?> 768w, <?php echo base_url('images/cache/catalog/anh/tien-ich-tang_-8-dream-home-riverside-898x505.jpg') ?> 1024w"
                                                             sizes="(max-width: 1920px) 100vw, 1920px" />
                                                     </a>
                                                 </figure>
@@ -989,13 +988,13 @@
 
                                             <div class="wpb_single_image wpb_content_element vc_align_left vc_custom_1525665456193">
                                                 <figure class="wpb_wrapper vc_figure">
-                                                    <a href="image/cache/catalog/anh/tien-ich-tang-thuong-dream-home-riverside-898x505.jpg"
+                                                    <a href="<?php echo base_url('images/cache/catalog/anh/tien-ich-tang-thuong-dream-home-riverside-898x505.jpg') ?>"
                                                         class="vc_single_image-wrapper vc_box_border_grey layzr-bg dt-pswp-item rollover rollover-zoom"
                                                         data-large_image_width="1024" data-large_image_height="576">
-                                                        <img width="1920" height="1080" src="image/cache/catalog/anh/tien-ich-tang-thuong-dream-home-riverside-898x505.jpg"
-                                                            data-src="http://dreamriverside.myzozo.net/image/cache/catalog/anh/tien-ich-tang-thuong-dream-home-riverside-898x505.jpg"
+                                                        <img width="1920" height="1080" src="<?php echo base_url('images/cache/catalog/anh/tien-ich-tang-thuong-dream-home-riverside-898x505.jpg') ?>"
+                                                            data-src="<?php echo base_url('images/cache/catalog/anh/tien-ich-tang-thuong-dream-home-riverside-898x505.jpg') ?>"
                                                             class="lazy-load vc_single_image-img attachment-full"
-                                                            alt="34 CÔNG TRÌNH|Tiện Ích Nghỉ Dưỡng" data-srcset="http://dreamriverside.myzozo.net/image/cache/catalog/anh/tien-ich-tang-thuong-dream-home-riverside-898x505.jpg 1920w, http://dreamriverside.myzozo.net/image/cache/catalog/anh/tien-ich-tang-thuong-dream-home-riverside-898x505.jpg 300w, http://dreamriverside.myzozo.net/image/cache/catalog/anh/tien-ich-tang-thuong-dream-home-riverside-898x505.jpg 768w, http://dreamriverside.myzozo.net/image/cache/catalog/anh/tien-ich-tang-thuong-dream-home-riverside-898x505.jpg 1024w"
+                                                            alt="34 CÔNG TRÌNH|Tiện Ích Nghỉ Dưỡng" data-srcset="<?php echo base_url('images/cache/catalog/anh/tien-ich-tang-thuong-dream-home-riverside-898x505.jpg') ?> 1920w, <?php echo base_url('images/cache/catalog/anh/tien-ich-tang-thuong-dream-home-riverside-898x505.jpg') ?> 300w, <?php echo base_url('images/cache/catalog/anh/tien-ich-tang-thuong-dream-home-riverside-898x505.jpg') ?> 768w, <?php echo base_url('images/cache/catalog/anh/tien-ich-tang-thuong-dream-home-riverside-898x505.jpg') ?> 1024w"
                                                             sizes="(max-width: 1920px) 100vw, 1920px" />
                                                     </a>
                                                 </figure>
@@ -1006,10 +1005,10 @@
                                                     <a href="image/cache/catalog/anh/HB_1514383641-898x505.jpg"
                                                         class="vc_single_image-wrapper vc_box_border_grey layzr-bg dt-pswp-item rollover rollover-zoom"
                                                         data-large_image_width="1024" data-large_image_height="576">
-                                                        <img width="1920" height="1080" src="image/cache/catalog/anh/HB_1514383641-898x505.jpg"
-                                                            data-src="http://dreamriverside.myzozo.net/image/cache/catalog/anh/HB_1514383641-898x505.jpg"
+                                                        <img width="1920" height="1080" src="<?php echo base_url('images/cache/catalog/anh/HB_1514383641-898x505.jpg') ?>"
+                                                            data-src="<?php echo base_url('images/cache/catalog/anh/HB_1514383641-898x505.jpg') ?>"
                                                             class="lazy-load vc_single_image-img attachment-full"
-                                                            alt="34 CÔNG TRÌNH|Tiện Ích Nghỉ Dưỡng" data-srcset="http://dreamriverside.myzozo.net/image/cache/catalog/anh/HB_1514383641-898x505.jpg 1920w, http://dreamriverside.myzozo.net/image/cache/catalog/anh/HB_1514383641-898x505.jpg 300w, http://dreamriverside.myzozo.net/image/cache/catalog/anh/HB_1514383641-898x505.jpg 768w, http://dreamriverside.myzozo.net/image/cache/catalog/anh/HB_1514383641-898x505.jpg 1024w"
+                                                            alt="34 CÔNG TRÌNH|Tiện Ích Nghỉ Dưỡng" data-srcset="<?php echo base_url('images/cache/catalog/anh/HB_1514383641-898x505.jpg') ?> 1920w, <?php echo base_url('images/cache/catalog/anh/HB_1514383641-898x505.jpg') ?> 300w, <?php echo base_url('images/cache/catalog/anh/HB_1514383641-898x505.jpg') ?> 768w, <?php echo base_url('images/cache/catalog/anh/HB_1514383641-898x505.jpg') ?> 1024w"
                                                             sizes="(max-width: 1920px) 100vw, 1920px" />
                                                     </a>
                                                 </figure>
@@ -1133,15 +1132,15 @@
                                                             <div class="vc_tta-panel-body">
                                                                 <div class="wpb_single_image wpb_content_element vc_align_center matbangimag">
                                                                     <figure class="wpb_wrapper vc_figure">
-                                                                        <a href="image/cache/catalog/anh/mat-bang-tang-dien-hinh-can-ho-dream-home-riverside-830x421.jpg"
+                                                                        <a href="<?php echo base_url('images/cache/catalog/anh/mat-bang-tang-dien-hinh-can-ho-dream-home-riverside-830x421.jpg') ?>"
                                                                             data-large_image_width="1024"
                                                                             data-large_image_height="716" class="vc_single_image-wrapper vc_box_border_grey layzr-bg dt-pswp-item rollover rollover-zoom">
                                                                             <img width="1300" height="909"
                                                                                 sizes="(max-width: 1300px) 100vw, 1300px"
-                                                                                src="image/cache/catalog/anh/mat-bang-tang-dien-hinh-can-ho-dream-home-riverside-830x421.jpg"
-                                                                                data-src="http://dreamriverside.myzozo.net/image/cache/catalog/anh/mat-bang-tang-dien-hinh-can-ho-dream-home-riverside-830x421.jpg"
+                                                                                src="<?php echo base_url('images/cache/catalog/anh/mat-bang-tang-dien-hinh-can-ho-dream-home-riverside-830x421.jpg') ?>"
+                                                                                data-src="<?php echo base_url('images/cache/catalog/anh/mat-bang-tang-dien-hinh-can-ho-dream-home-riverside-830x421.jpg') ?>"
                                                                                 class="lazy-load vc_single_image-img attachment-full"
-                                                                                alt="" data-srcset="http://dreamriverside.myzozo.net/image/cache/catalog/anh/mat-bang-tang-dien-hinh-can-ho-dream-home-riverside-830x421.jpg 1300w,http://dreamriverside.myzozo.net/image/cache/catalog/anh/mat-bang-tang-dien-hinh-can-ho-dream-home-riverside-830x421.jpg 300w, http://dreamriverside.myzozo.net/image/cache/catalog/anh/mat-bang-tang-dien-hinh-can-ho-dream-home-riverside-830x421.jpg 768w, http://dreamriverside.myzozo.net/image/cache/catalog/anh/mat-bang-tang-dien-hinh-can-ho-dream-home-riverside-830x421.jpg 1024w" />
+                                                                                alt="" data-srcset="<?php echo base_url('images/cache/catalog/anh/mat-bang-tang-dien-hinh-can-ho-dream-home-riverside-830x421.jpg') ?> 1300w,<?php echo base_url('images/cache/catalog/anh/mat-bang-tang-dien-hinh-can-ho-dream-home-riverside-830x421.jpg') ?> 300w, <?php echo base_url('images/cache/catalog/anh/mat-bang-tang-dien-hinh-can-ho-dream-home-riverside-830x421.jpg') ?> 768w, <?php echo base_url('images/cache/catalog/anh/mat-bang-tang-dien-hinh-can-ho-dream-home-riverside-830x421.jpg') ?> 1024w" />
                                                                         </a>
                                                                         <figcaption class="vc_figure-caption"></figcaption>
                                                                     </figure>
@@ -1161,15 +1160,15 @@
                                                             <div class="vc_tta-panel-body">
                                                                 <div class="wpb_single_image wpb_content_element vc_align_center matbangimag">
                                                                     <figure class="wpb_wrapper vc_figure">
-                                                                        <a href="image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-a1-2-phong-ngu-830x421.jpg"
+                                                                        <a href="<?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-a1-2-phong-ngu-830x421.jpg') ?>"
                                                                             data-large_image_width="1024"
                                                                             data-large_image_height="716" class="vc_single_image-wrapper vc_box_border_grey layzr-bg dt-pswp-item rollover rollover-zoom">
                                                                             <img width="1300" height="909"
                                                                                 sizes="(max-width: 1300px) 100vw, 1300px"
-                                                                                src="image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-a1-2-phong-ngu-830x421.jpg"
-                                                                                data-src="http://dreamriverside.myzozo.net/image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-a1-2-phong-ngu-830x421.jpg"
+                                                                                src="<?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-a1-2-phong-ngu-830x421.jpg') ?>"
+                                                                                data-src="<?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-a1-2-phong-ngu-830x421.jpg') ?>"
                                                                                 class="lazy-load vc_single_image-img attachment-full"
-                                                                                alt="" data-srcset="http://dreamriverside.myzozo.net/image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-a1-2-phong-ngu-830x421.jpg 1300w,http://dreamriverside.myzozo.net/image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-a1-2-phong-ngu-830x421.jpg 300w, http://dreamriverside.myzozo.net/image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-a1-2-phong-ngu-830x421.jpg 768w, http://dreamriverside.myzozo.net/image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-a1-2-phong-ngu-830x421.jpg 1024w" />
+                                                                                alt="" data-srcset="<?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-a1-2-phong-ngu-830x421.jpg') ?> 1300w,<?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-a1-2-phong-ngu-830x421.jpg') ?> 300w, <?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-a1-2-phong-ngu-830x421.jpg') ?> 768w, <?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-a1-2-phong-ngu-830x421.jpg') ?> 1024w" />
                                                                         </a>
                                                                         <figcaption class="vc_figure-caption">
                                                                             <p>64.68 m2</p>
@@ -1191,15 +1190,15 @@
                                                             <div class="vc_tta-panel-body">
                                                                 <div class="wpb_single_image wpb_content_element vc_align_center matbangimag">
                                                                     <figure class="wpb_wrapper vc_figure">
-                                                                        <a href="image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-a2-2-phong-ngu-830x421.jpg"
+                                                                        <a href="<?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-a2-2-phong-ngu-830x421.jpg') ?>"
                                                                             data-large_image_width="1024"
                                                                             data-large_image_height="716" class="vc_single_image-wrapper vc_box_border_grey layzr-bg dt-pswp-item rollover rollover-zoom">
                                                                             <img width="1300" height="909"
                                                                                 sizes="(max-width: 1300px) 100vw, 1300px"
-                                                                                src="image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-a2-2-phong-ngu-830x421.jpg"
-                                                                                data-src="http://dreamriverside.myzozo.net/image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-a2-2-phong-ngu-830x421.jpg"
+                                                                                src="<?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-a2-2-phong-ngu-830x421.jpg') ?>"
+                                                                                data-src="<?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-a2-2-phong-ngu-830x421.jpg') ?>"
                                                                                 class="lazy-load vc_single_image-img attachment-full"
-                                                                                alt="" data-srcset="http://dreamriverside.myzozo.net/image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-a2-2-phong-ngu-830x421.jpg 1300w,http://dreamriverside.myzozo.net/image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-a2-2-phong-ngu-830x421.jpg 300w, http://dreamriverside.myzozo.net/image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-a2-2-phong-ngu-830x421.jpg 768w, http://dreamriverside.myzozo.net/image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-a2-2-phong-ngu-830x421.jpg 1024w" />
+                                                                                alt="" data-srcset="<?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-a2-2-phong-ngu-830x421.jpg') ?> 1300w,<?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-a2-2-phong-ngu-830x421.jpg') ?> 300w, <?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-a2-2-phong-ngu-830x421.jpg') ?> 768w, <?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-a2-2-phong-ngu-830x421.jpg') ?> 1024w" />
                                                                         </a>
                                                                         <figcaption class="vc_figure-caption">
                                                                             <p>75.12 m2</p>
@@ -1220,15 +1219,15 @@
                                                             <div class="vc_tta-panel-body">
                                                                 <div class="wpb_single_image wpb_content_element vc_align_center matbangimag">
                                                                     <figure class="wpb_wrapper vc_figure">
-                                                                        <a href="image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-b-2-phong-ngu-790x421.jpg"
+                                                                        <a href="<?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-b-2-phong-ngu-790x421.jpg') ?>"
                                                                             data-large_image_width="1024"
                                                                             data-large_image_height="716" class="vc_single_image-wrapper vc_box_border_grey layzr-bg dt-pswp-item rollover rollover-zoom">
                                                                             <img width="1300" height="909"
                                                                                 sizes="(max-width: 1300px) 100vw, 1300px"
-                                                                                src="image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-b-2-phong-ngu-790x421.jpg"
-                                                                                data-src="http://dreamriverside.myzozo.net/image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-b-2-phong-ngu-790x421.jpg"
+                                                                                src="<?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-b-2-phong-ngu-790x421.jpg') ?>"
+                                                                                data-src="<?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-b-2-phong-ngu-790x421.jpg') ?>"
                                                                                 class="lazy-load vc_single_image-img attachment-full"
-                                                                                alt="" data-srcset="http://dreamriverside.myzozo.net/image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-b-2-phong-ngu-790x421.jpg 1300w,http://dreamriverside.myzozo.net/image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-b-2-phong-ngu-790x421.jpg 300w, http://dreamriverside.myzozo.net/image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-b-2-phong-ngu-790x421.jpg 768w, http://dreamriverside.myzozo.net/image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-b-2-phong-ngu-790x421.jpg 1024w" />
+                                                                                alt="" data-srcset="<?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-b-2-phong-ngu-790x421.jpg') ?> 1300w,<?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-b-2-phong-ngu-790x421.jpg') ?> 300w, <?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-b-2-phong-ngu-790x421.jpg') ?> 768w, <?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-b-2-phong-ngu-790x421.jpg') ?> 1024w" />
                                                                         </a>
                                                                         <figcaption class="vc_figure-caption">
                                                                             <p>182m2</p>
@@ -1249,15 +1248,15 @@
                                                             <div class="vc_tta-panel-body">
                                                                 <div class="wpb_single_image wpb_content_element vc_align_center matbangimag">
                                                                     <figure class="wpb_wrapper vc_figure">
-                                                                        <a href="image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-c-2-phong-ngu-800x400.jpg"
+                                                                        <a href="<?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-c-2-phong-ngu-800x400.jpg') ?>"
                                                                             data-large_image_width="1024"
                                                                             data-large_image_height="716" class="vc_single_image-wrapper vc_box_border_grey layzr-bg dt-pswp-item rollover rollover-zoom">
                                                                             <img width="1300" height="909"
                                                                                 sizes="(max-width: 1300px) 100vw, 1300px"
-                                                                                src="image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-c-2-phong-ngu-800x400.jpg"
-                                                                                data-src="http://dreamriverside.myzozo.net/image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-c-2-phong-ngu-800x400.jpg"
+                                                                                src="<?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-c-2-phong-ngu-800x400.jpg') ?>"
+                                                                                data-src="<?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-c-2-phong-ngu-800x400.jpg') ?>"
                                                                                 class="lazy-load vc_single_image-img attachment-full"
-                                                                                alt="" data-srcset="http://dreamriverside.myzozo.net/image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-c-2-phong-ngu-800x400.jpg 1300w,http://dreamriverside.myzozo.net/image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-c-2-phong-ngu-800x400.jpg 300w, http://dreamriverside.myzozo.net/image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-c-2-phong-ngu-800x400.jpg 768w, http://dreamriverside.myzozo.net/image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-c-2-phong-ngu-800x400.jpg 1024w" />
+                                                                                alt="" data-srcset="<?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-c-2-phong-ngu-800x400.jpg') ?> 1300w,<?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-c-2-phong-ngu-800x400.jpg') ?> 300w, <?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-c-2-phong-ngu-800x400.jpg') ?> 768w, <?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-c-2-phong-ngu-800x400.jpg') ?> 1024w" />
                                                                         </a>
                                                                         <figcaption class="vc_figure-caption"></figcaption>
                                                                     </figure>
@@ -1276,15 +1275,15 @@
                                                             <div class="vc_tta-panel-body">
                                                                 <div class="wpb_single_image wpb_content_element vc_align_center matbangimag">
                                                                     <figure class="wpb_wrapper vc_figure">
-                                                                        <a href="image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-d-2-phong-ngu-800x400.jpg"
+                                                                        <a href="<?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-d-2-phong-ngu-800x400.jpg') ?>"
                                                                             data-large_image_width="1024"
                                                                             data-large_image_height="716" class="vc_single_image-wrapper vc_box_border_grey layzr-bg dt-pswp-item rollover rollover-zoom">
                                                                             <img width="1300" height="909"
                                                                                 sizes="(max-width: 1300px) 100vw, 1300px"
-                                                                                src="image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-d-2-phong-ngu-800x400.jpg"
-                                                                                data-src="http://dreamriverside.myzozo.net/image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-d-2-phong-ngu-800x400.jpg"
+                                                                                src="<?php echo base_url('image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-d-2-phong-ngu-800x400.jpg') ?>"
+                                                                                data-src="<?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-d-2-phong-ngu-800x400.jpg') ?>"
                                                                                 class="lazy-load vc_single_image-img attachment-full"
-                                                                                alt="" data-srcset="http://dreamriverside.myzozo.net/image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-d-2-phong-ngu-800x400.jpg 1300w,http://dreamriverside.myzozo.net/image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-d-2-phong-ngu-800x400.jpg 300w, http://dreamriverside.myzozo.net/image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-d-2-phong-ngu-800x400.jpg 768w, http://dreamriverside.myzozo.net/image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-d-2-phong-ngu-800x400.jpg 1024w" />
+                                                                                alt="" data-srcset="<?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-d-2-phong-ngu-800x400.jpg') ?> 1300w,<?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-d-2-phong-ngu-800x400.jpg') ?> 300w, <?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-d-2-phong-ngu-800x400.jpg') ?> 768w, <?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-d-2-phong-ngu-800x400.jpg') ?> 1024w" />
                                                                         </a>
                                                                         <figcaption class="vc_figure-caption"></figcaption>
                                                                     </figure>
@@ -1304,15 +1303,15 @@
                                                             <div class="vc_tta-panel-body">
                                                                 <div class="wpb_single_image wpb_content_element vc_align_center matbangimag">
                                                                     <figure class="wpb_wrapper vc_figure">
-                                                                        <a href="image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-d1-2-phong-ngu-800x400.jpg"
+                                                                        <a href="<?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-d1-2-phong-ngu-800x400.jpg') ?>"
                                                                             data-large_image_width="1024"
                                                                             data-large_image_height="716" class="vc_single_image-wrapper vc_box_border_grey layzr-bg dt-pswp-item rollover rollover-zoom">
                                                                             <img width="1300" height="909"
                                                                                 sizes="(max-width: 1300px) 100vw, 1300px"
-                                                                                src="image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-d1-2-phong-ngu-800x400.jpg"
-                                                                                data-src="http://dreamriverside.myzozo.net/image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-d1-2-phong-ngu-800x400.jpg"
+                                                                                src="<?php echo base_url('image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-d1-2-phong-ngu-800x400.jpg') ?>"
+                                                                                data-src="<?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-d1-2-phong-ngu-800x400.jpg') ?>"
                                                                                 class="lazy-load vc_single_image-img attachment-full"
-                                                                                alt="" data-srcset="http://dreamriverside.myzozo.net/image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-d1-2-phong-ngu-800x400.jpg 1300w,http://dreamriverside.myzozo.net/image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-d1-2-phong-ngu-800x400.jpg 300w, http://dreamriverside.myzozo.net/image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-d1-2-phong-ngu-800x400.jpg 768w, http://dreamriverside.myzozo.net/image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-d1-2-phong-ngu-800x400.jpg 1024w" />
+                                                                                alt="" data-srcset="<?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-d1-2-phong-ngu-800x400.jpg') ?> 1300w,<?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-d1-2-phong-ngu-800x400.jpg')?> 300w, <?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-d1-2-phong-ngu-800x400.jpg') ?> 768w, <?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-d1-2-phong-ngu-800x400.jpg') ?> 1024w" />
                                                                         </a>
                                                                         <figcaption class="vc_figure-caption"></figcaption>
                                                                     </figure>
@@ -1331,15 +1330,15 @@
                                                             <div class="vc_tta-panel-body">
                                                                 <div class="wpb_single_image wpb_content_element vc_align_center matbangimag">
                                                                     <figure class="wpb_wrapper vc_figure">
-                                                                        <a href="image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-a-3-phong-ngu-790x400.jpg"
+                                                                        <a href="<?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-a-3-phong-ngu-790x400.jpg') ?>"
                                                                             data-large_image_width="1024"
                                                                             data-large_image_height="716" class="vc_single_image-wrapper vc_box_border_grey layzr-bg dt-pswp-item rollover rollover-zoom">
                                                                             <img width="1300" height="909"
                                                                                 sizes="(max-width: 1300px) 100vw, 1300px"
-                                                                                src="image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-a-3-phong-ngu-790x400.jpg"
-                                                                                data-src="http://dreamriverside.myzozo.net/image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-a-3-phong-ngu-790x400.jpg"
+                                                                                src="<?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-a-3-phong-ngu-790x400.jpg') ?>"
+                                                                                data-src="<?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-a-3-phong-ngu-790x400.jpg') ?>"
                                                                                 class="lazy-load vc_single_image-img attachment-full"
-                                                                                alt="" data-srcset="http://dreamriverside.myzozo.net/image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-a-3-phong-ngu-790x400.jpg 1300w,http://dreamriverside.myzozo.net/image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-a-3-phong-ngu-790x400.jpg 300w, http://dreamriverside.myzozo.net/image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-a-3-phong-ngu-790x400.jpg 768w, http://dreamriverside.myzozo.net/image/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-a-3-phong-ngu-790x400.jpg 1024w" />
+                                                                                alt="" data-srcset="<?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-a-3-phong-ngu-790x400.jpg') ?> 1300w,<?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-a-3-phong-ngu-790x400.jpg') ?> 300w, <?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-a-3-phong-ngu-790x400.jpg') ?> 768w, <?php echo base_url('images/cache/catalog/anh/anh-mat-bang/can-ho-dream-home-riverside-loai-a-3-phong-ngu-790x400.jpg') ?> 1024w" />
                                                                         </a>
                                                                         <figcaption class="vc_figure-caption"></figcaption>
                                                                     </figure>
@@ -1376,8 +1375,8 @@
                                             <div class="wpb_single_image wpb_content_element vc_align_center hinhdoitac">
                                                 <figure class="wpb_wrapper vc_figure">
                                                     <div class="vc_single_image-wrapper vc_box_border_grey layzr-bg">
-                                                        <img src="image/cache/catalog/partner/logoNhaMo-100x100.png"
-                                                            data-src="http://dreamriverside.myzozo.net/image/cache/catalog/partner/logoNhaMo-100x100.png"
+                                                        <img src="<?php echo base_url('images/cache/catalog/partner/logoNhaMo-100x100.png') ?>"
+                                                            data-src="<?php echo base_url('images/cache/catalog/partner/logoNhaMo-100x100.png') ?>"
                                                             class="lazy-load vc_single_image-img attachment-full"
                                                             alt="" />
                                                     </div>
@@ -1386,8 +1385,8 @@
                                             <div class="wpb_single_image wpb_content_element vc_align_center hinhdoitac">
                                                 <figure class="wpb_wrapper vc_figure">
                                                     <div class="vc_single_image-wrapper vc_box_border_grey layzr-bg">
-                                                        <img src="image/cache/catalog/partner/logoDKRS-100x100.png"
-                                                            data-src="http://dreamriverside.myzozo.net/image/cache/catalog/partner/logoDKRS-100x100.png"
+                                                        <img src="<?php echo base_url('image/cache/catalog/partner/logoDKRS-100x100.png') ?>"
+                                                            data-src="<?php echo base_url('images/cache/catalog/partner/logoDKRS-100x100.png') ?>"
                                                             class="lazy-load vc_single_image-img attachment-full"
                                                             alt="" />
                                                     </div>
@@ -1396,8 +1395,8 @@
                                             <div class="wpb_single_image wpb_content_element vc_align_center hinhdoitac">
                                                 <figure class="wpb_wrapper vc_figure">
                                                     <div class="vc_single_image-wrapper vc_box_border_grey layzr-bg">
-                                                        <img src="image/cache/catalog/partner/logoLienVietPostBank-100x100.png"
-                                                            data-src="http://dreamriverside.myzozo.net/image/cache/catalog/partner/logoLienVietPostBank-100x100.png"
+                                                        <img src="<?php echo base_url('images/cache/catalog/partner/logoLienVietPostBank-100x100.png') ?>"
+                                                            data-src="<?php echo base_url('images/cache/catalog/partner/logoLienVietPostBank-100x100.png') ?>"
                                                             class="lazy-load vc_single_image-img attachment-full"
                                                             alt="" />
                                                     </div>
@@ -1406,8 +1405,8 @@
                                             <div class="wpb_single_image wpb_content_element vc_align_center hinhdoitac">
                                                 <figure class="wpb_wrapper vc_figure">
                                                     <div class="vc_single_image-wrapper vc_box_border_grey layzr-bg">
-                                                        <img src="image/cache/catalog/partner/vietinbank-o-150x100.jpg"
-                                                            data-src="http://dreamriverside.myzozo.net/image/cache/catalog/partner/vietinbank-o-150x100.jpg"
+                                                        <img src="<?php echo base_url('image/cache/catalog/partner/vietinbank-o-150x100.jpg') ?>"
+                                                            data-src="<?php echo base_url('images/cache/catalog/partner/vietinbank-o-150x100.jpg') ?>"
                                                             class="lazy-load vc_single_image-img attachment-full"
                                                             alt="" />
                                                     </div>
