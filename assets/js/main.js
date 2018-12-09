@@ -2026,7 +2026,7 @@ jQuery.easing.jswing = jQuery.easing.swing, jQuery.extend(jQuery.easing, {
         ! function(b) {
             var c = "function" == typeof define && define.amd,
                 d = "undefined" != typeof module && module.exports,
-                e = ("https:" == document.location.protocol ? "https:" : "http:", dtLocal.themeUrl + "/catalog/view/theme/thearena/javascript/jquery.mousewheel.min.js", document.createElement("SCRIPT"));
+                e = ("https:" == document.location.protocol ? "https:" : "http:", dtLocal.themeUrl + "/assets/js/jquery.mousewheel.min.js", document.createElement("SCRIPT"));
             e.src = dtLocal.themeUrl + "/catalog/view/theme/thearena/javascript/jquery.mousewheel.min.js", c || (d ? require("jquery-mousewheel")(a) : a.event.special.mousewheel || document.getElementsByTagName("head")[0].appendChild(e)), b()
         }(function() {
             var b, c = "mCustomScrollbar",

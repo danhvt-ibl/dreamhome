@@ -1420,7 +1420,7 @@
                         <div class="vc_row-full-width vc_clearfix"></div>
 
 
-                        <div id="newsletter-0" data-vc-full-width="true" data-vc-full-width-init="false" style="background-image: url('<?php echo base_url('images/catalog/anh/HB_1514383641.jpg') ?>')"
+                        <div id="newsletter-0" data-vc-full-width="true" data-vc-full-width-init="false" style="background-image: url('<?php echo base_url('images/anh/HB_1514383641.jpg') ?>')"
                             class="vc_row wpb_row vc_row-fluid vc_custom_1525343639670 vc_row-has-fill module-newsletter">
                             <div class="wpb_column vc_column_container vc_col-sm-2">
                                 <div class="vc_column-inner vc_custom_1524733033662">
