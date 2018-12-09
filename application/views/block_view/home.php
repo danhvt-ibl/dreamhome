@@ -340,7 +340,7 @@
                                                                             class="uavc-list-desc ult-responsive"
                                                                             style="color:#333333;">
                                                                             <p>
-                                                                                <p><iframe src="http://www.youtube.com/embed/AH3EoQU_SCU"
+                                                                                <p><iframe src="https://www.youtube.com/embed/AH3EoQU_SCU"
                                                                                         width="535" height="300"
                                                                                         frameborder="0"
                                                                                         allowfullscreen="allowfullscreen"></iframe></p>
@@ -364,7 +364,7 @@
                         <div id="service_summary-3" data-vc-full-width="true" data-vc-full-width-init="false"
                             data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid tongquanduan module-summary vc_row-has-fill vc_row-no-padding vc_row-o-equal-height vc_row-o-content-middle vc_row-flex">
                             <div class="hinhh1 wpb_column vc_column_container vc_col-sm-6 vc_col-has-fill">
-                                <div class="vc_column-inner service_summary-image" style="background-image: url('<?php echo base_url('images/catalog/anh/1485007528.jpg') ?>')">
+                                <div class="vc_column-inner service_summary-image" style="background-image: url('<?php echo base_url('images/anh/1485007528.jpg') ?>')">
                                     <div class="wpb_wrapper"></div>
                                 </div>
                             </div>
