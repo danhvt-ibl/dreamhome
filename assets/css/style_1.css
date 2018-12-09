@@ -278,7 +278,7 @@ html {
     letter-spacing: 3px;
     padding-bottom: 10px;
     background-position: bottom !important;
-    background: url(../image/icon-title-o.png) no-repeat 0 100%
+    background: url(../images/icon-title-o.png) no-repeat 0 100%
 }
 .tieude {
 }
@@ -287,7 +287,7 @@ html {
 }
 .tongquanduan,
 .ttnoibatbg {
-    background-image: url(../image/patternmark-4-o-o.png);
+    background-image: url(../images/patternmark-4-o-o.png);
     background-position: right bottom !important;
     background-repeat: no-repeat
 }
@@ -336,7 +336,7 @@ html {
     margin-bottom: 0
 }
 .chinhsachbg {
-    background-image: url(../image/patternmark-3-o-1.png);
+    background-image: url(../images/patternmark-3-o-1.png);
     background-position: left bottom !important;
     background-repeat: no-repeat
 }
@@ -594,11 +594,11 @@ html {
     border: 1px solid #A6CA8A
 }
 .warning-wpcp {
-    background: #FFECEC url('../image/warning.png') no-repeat 10px 50%;
+    background: #FFECEC url('../images/warning.png') no-repeat 10px 50%;
     border: 1px solid #F5ACA6
 }
 .notice {
-    background: #E3F7FC url('../image/notice.png') no-repeat 10px 50%;
+    background: #E3F7FC url('../images/notice.png') no-repeat 10px 50%;
     border: 1px solid #8ED9F6
 }
 /*=============================================================*/
