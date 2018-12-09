@@ -316,7 +316,7 @@
                                                                                     về l&yacute; tưởng trong
                                                                                     tương lai</p>
                                                                                 <p style="text-align: left;"><img
-                                                                                        src="image/catalog/anh/global.jpg"
+                                                                                        src="<?php echo base_url('images/anh/global.jpg') ?>"
                                                                                         alt="Dream home riversider - global group"
                                                                                         width="638" height="290" /></p>
                                                                             </p>
