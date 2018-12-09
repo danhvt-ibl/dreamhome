@@ -649,7 +649,7 @@
                                                     <div class="wpb_wrapper">
                                                         <div class="wpb_single_image wpb_content_element vc_align_center  vc_custom_1525321125791">
                                                             <figure class="wpb_wrapper vc_figure">
-                                                                <a href="image/catalog/anh/Dream-Home-Riverside-04.jpg"
+                                                                <a href="<?php echo base_url('image/catalog/anh/Dream-Home-Riverside-04.jpg') ?>"
                                                                     data-large_image_width="1024"
                                                                     data-large_image_height="543" class="vc_single_image-wrapper vc_box_rounded vc_box_border_grey layzr-bg dt-pswp-item rollover rollover-zoom">
                                                                     <img width="2100" height="1113" src="<?php echo base_url('images/anh/Dream-Home-Riverside-04.jpg') ?>"
@@ -912,11 +912,11 @@
                                                                         với gi&aacute; ch&ecirc;nh lệch
                                                                         kh&ocirc;ng nhiều so với gi&aacute;
                                                                         khởi điểm.</p>
-                                                                    <p><img src="image/catalog/anh/Dream-Home-Riverside-23.jpg"
+                                                                    <p><img src="<?php echo base_url('images/catalog/anh/Dream-Home-Riverside-23.jpg') ?>"
                                                                             alt="" width="1000" height="667" /></p>
-                                                                    <p><img src="image/catalog/anh/Dream-Home-Riverside-22.jpg"
+                                                                    <p><img src="<?php echo base_url('images/catalog/anh/Dream-Home-Riverside-22.jpg') ?>"
                                                                             alt="" width="1000" height="667" /></p>
-                                                                    <p><img src="image/catalog/anh/dreamhome-riverside-quan-8-6-800x409&#32;(1).jpg"
+                                                                    <p><img src="<?php echo base_url('images/catalog/anh/dreamhome-riverside-quan-8-6-800x409&#32;(1).jpg') ?>"
                                                                             alt="" width="953" height="487" /></p>
                                                                 </p>
                                                             </div>

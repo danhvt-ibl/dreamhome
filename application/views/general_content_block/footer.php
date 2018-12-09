@@ -1,10 +1,10 @@
-<footer id="footer" class="footer solid-bg" style="background-image: url('image/catalog/anh/patternmark-3-o.png');">
+<footer id="footer" class="footer solid-bg" style="background-image: url('<?php echo base_url('images/catalog/anh/patternmark-3-o.png') ?> ');">
     <div class="wf-wrap">
         <div class="wf-container-footer">
             <div class="wf-container">
                 <section id="media_image-2" class="widget widget_media_image wf-cell wf-1-2">
                     <a href="index.html">
-                        <img class="image wp-image-251 attachment-full size-full" src="image/catalog/logo/logo.png"
+                        <img class="image wp-image-251 attachment-full size-full" src="<?php echo base_url('images/catalog/logo/logo.png') ?>"
                             alt="Long Sơn Việt.vn" title="Long Sơn Việt.vn" />
                     </a>
                     <h3 class="widget-title" style="width: 740.25px; margin-bottom: 0.5em; text-rendering: optimizespeed; font-size: 1em; font-family: Exo, sans-serif; font-weight: 700; line-height: 1.05; letter-spacing: 0.05em; text-transform: uppercase; color: rgb(255, 255, 255) !important;">
