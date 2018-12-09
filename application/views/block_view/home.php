@@ -898,7 +898,7 @@
                                                                         v&agrave; toilet đồng bộ, ph&ugrave;
                                                                         hợp với nhu cầu của từng gia
                                                                         đ&igrave;nh.</p>
-                                                                    <p><img src="image/catalog/anh/dream-home-riverside-phoi-canh.jpg"
+                                                                    <p><img src="<?php echo base_url('images/anh/dream-home-riverside-phoi-canh.jpg') ?>"
                                                                             alt="" width="1200" height="650" /></p>
                                                                     <p>&nbsp;</p>
                                                                     <p>C&aacute;c căn hộ nh&igrave;n chung đều
@@ -1002,7 +1002,7 @@
 
                                             <div class="wpb_single_image wpb_content_element vc_align_left vc_custom_1525665456193">
                                                 <figure class="wpb_wrapper vc_figure">
-                                                    <a href="image/cache/catalog/anh/HB_1514383641-898x505.jpg"
+                                                    <a href="<?php echo base_url('image/cache/catalog/anh/HB_1514383641-898x505.jpg') ?>"
                                                         class="vc_single_image-wrapper vc_box_border_grey layzr-bg dt-pswp-item rollover rollover-zoom"
                                                         data-large_image_width="1024" data-large_image_height="576">
                                                         <img width="1920" height="1080" src="<?php echo base_url('images/cache/catalog/anh/HB_1514383641-898x505.jpg') ?>"
@@ -1385,7 +1385,7 @@
                                             <div class="wpb_single_image wpb_content_element vc_align_center hinhdoitac">
                                                 <figure class="wpb_wrapper vc_figure">
                                                     <div class="vc_single_image-wrapper vc_box_border_grey layzr-bg">
-                                                        <img src="<?php echo base_url('image/cache/catalog/partner/logoDKRS-100x100.png') ?>"
+                                                        <img src="<?php echo base_url('images/cache/catalog/partner/logoDKRS-100x100.png') ?>"
                                                             data-src="<?php echo base_url('images/cache/catalog/partner/logoDKRS-100x100.png') ?>"
                                                             class="lazy-load vc_single_image-img attachment-full"
                                                             alt="" />
@@ -1420,7 +1420,7 @@
                         <div class="vc_row-full-width vc_clearfix"></div>
 
 
-                        <div id="newsletter-0" data-vc-full-width="true" data-vc-full-width-init="false" style="background-image: url('image/catalog/anh/HB_1514383641.jpg')"
+                        <div id="newsletter-0" data-vc-full-width="true" data-vc-full-width-init="false" style="background-image: url('<?php echo base_url('images/catalog/anh/HB_1514383641.jpg') ?>')"
                             class="vc_row wpb_row vc_row-fluid vc_custom_1525343639670 vc_row-has-fill module-newsletter">
                             <div class="wpb_column vc_column_container vc_col-sm-2">
                                 <div class="vc_column-inner vc_custom_1524733033662">
