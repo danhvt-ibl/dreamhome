@@ -1,13 +1,4 @@
 <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
-    <title>Parallax Template - Materialize</title>
-
-    <!-- CSS  -->
-    <link href="<?php echo base_url('assets/materialize/css/meterial-icons.css'); ?>" type="text/css" rel="stylesheet" media="screen,projection"/>
-</head>
-
-<head>
     <meta charset="utf-8" />
     <meta name="robots" content="index, follow" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
