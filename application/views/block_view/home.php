@@ -862,7 +862,7 @@
                                 </div>
                             </div>
                             <div class="hinhh2 wpb_column vc_column_container vc_col-sm-6 vc_col-has-fill">
-                                <div class="vc_column-inner service_summary-image" style="background-image: url(image/catalog/anh/arena-o.jpg)">
+                                <div class="vc_column-inner service_summary-image" style="background-image: url(<?php echo base_url('images/anh/arena-o.jpg') ?>">
                                     <div class="wpb_wrapper"></div>
                                 </div>
                             </div>

@@ -29,7 +29,7 @@ window._wpemojiSettings = {
     "ext"    : ".png",
     "svgUrl" : "https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/",
     "svgExt" : ".svg",
-    "source" : {"concatemoji": "\/catalog\/view\/theme\/thearena\/javascript\/wp-emoji-release.min.js"}
+    "source" : {"concatemoji": "\/assets\/js\/wp-emoji-release.min.js"}
 };
 !function (a, b, c) {
     function d(a, b) {
