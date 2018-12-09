@@ -1405,7 +1405,7 @@
                                             <div class="wpb_single_image wpb_content_element vc_align_center hinhdoitac">
                                                 <figure class="wpb_wrapper vc_figure">
                                                     <div class="vc_single_image-wrapper vc_box_border_grey layzr-bg">
-                                                        <img src="<?php echo base_url('image/cache/catalog/partner/vietinbank-o-150x100.jpg') ?>"
+                                                        <img src="<?php echo base_url('images/cache/catalog/partner/vietinbank-o-150x100.jpg') ?>"
                                                             data-src="<?php echo base_url('images/cache/catalog/partner/vietinbank-o-150x100.jpg') ?>"
                                                             class="lazy-load vc_single_image-img attachment-full"
                                                             alt="" />
