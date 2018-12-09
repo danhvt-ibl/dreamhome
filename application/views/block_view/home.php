@@ -912,11 +912,11 @@
                                                                         với gi&aacute; ch&ecirc;nh lệch
                                                                         kh&ocirc;ng nhiều so với gi&aacute;
                                                                         khởi điểm.</p>
-                                                                    <p><img src="<?php echo base_url('images/catalog/anh/Dream-Home-Riverside-23.jpg') ?>"
+                                                                    <p><img src="<?php echo base_url('images/anh/Dream-Home-Riverside-23.jpg') ?>"
                                                                             alt="" width="1000" height="667" /></p>
-                                                                    <p><img src="<?php echo base_url('images/catalog/anh/Dream-Home-Riverside-22.jpg') ?>"
+                                                                    <p><img src="<?php echo base_url('images/anh/Dream-Home-Riverside-22.jpg') ?>"
                                                                             alt="" width="1000" height="667" /></p>
-                                                                    <p><img src="<?php echo base_url('images/catalog/anh/dreamhome-riverside-quan-8-6-800x409&#32;(1).jpg') ?>"
+                                                                    <p><img src="<?php echo base_url('images/anh/dreamhome-riverside-quan-8-6-800x409&#32;(1).jpg') ?>"
                                                                             alt="" width="953" height="487" /></p>
                                                                 </p>
                                                             </div>
